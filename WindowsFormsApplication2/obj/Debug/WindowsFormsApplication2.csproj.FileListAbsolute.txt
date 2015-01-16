@@ -1,0 +1,13 @@
+c:\users\ft6034\documents\visual studio 2013\Projects\FileStream1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\ft6034\documents\visual studio 2013\Projects\FileStream1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\ft6034\documents\visual studio 2013\Projects\FileStream1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\ft6034\documents\visual studio 2013\Projects\FileStream1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\ft6034\documents\visual studio 2013\Projects\FileStream1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\ft6034\documents\visual studio 2013\Projects\FileStream1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\ft6034\documents\visual studio 2013\Projects\FileStream1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\ft6034\documents\visual studio 2013\Projects\FileStream1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\ft6034\Documents\Visual Studio 2013\Projects\FileStream1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ft6034\Documents\Visual Studio 2013\Projects\FileStream1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+C:\Users\ft6034\Documents\Visual Studio 2013\Projects\FileStream1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+C:\Users\ft6034\Documents\Visual Studio 2013\Projects\FileStream1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+C:\Users\ft6034\Documents\Visual Studio 2013\Projects\FileStream1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
